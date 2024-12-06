@@ -11,9 +11,6 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  width: 1440px;
-  height: 960px;
-
 }
 
 main {
@@ -103,7 +100,7 @@ main {
 }
 
 footer {
-  margin-top: 24px;
+
   font-size: 11px;
   text-align: center;
 }
