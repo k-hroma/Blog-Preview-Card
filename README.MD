@@ -25,11 +25,11 @@ Users should be able to:
 
 ## Screenshot
 
-![Blog Preview Ccard](./assets/images/screenshot.png)
+![Blog Preview Card](./assets/images/Screenshot.png)
 
 ## Links
 
-- Solution URL: [https://github.com/k-hroma/k-hroma-Blog-preview-card-css-and-flexbox.git]
+- Solution URL: [https://k-hroma.github.io/Blog-Preview-Card/]
 - Live Site URL: [https://k-hroma.github.io/k-hroma-Blog-preview-card-css-and-flexbox/]
 ## My process
 
